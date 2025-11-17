@@ -3,7 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=badlord1st&label=Profile%20views&color=0e75b6&style=flat" alt="badlord1st" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=badlord1st" alt="badlord1st" /></a> </p>
+<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=BadLord1st&theme=onedark"></a> </p>
+
 
 - 🔭 I’m currently working on **Online voice-video chat**
 
